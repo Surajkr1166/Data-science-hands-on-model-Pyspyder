@@ -1,5 +1,6 @@
 # Data-science-hands-on-model-Linear Regression 
 🏠 Housing Price Prediction Using Multiple Linear Regression
+
 📘 Project Overview
 
 This project focuses on predicting housing prices in the Delhi region using a Multiple Linear Regression model. The objective is to understand and quantify how various features — such as area, number of bedrooms, bathrooms, and amenities — affect property prices.
