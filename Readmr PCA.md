@@ -1,4 +1,4 @@
-📘 README.md — Loan Default Prediction using PCA and Logistic Regression
+
 🧠 Project Overview
 
 This project aims to predict loan default using Logistic Regression enhanced with Principal Component Analysis (PCA) for dimensionality reduction.
